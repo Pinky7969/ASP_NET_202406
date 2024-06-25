@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\public\\Model3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\model3\\06_join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:06_join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\model3\\05_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:05_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06_join.cs",
+              "DocumentMoniker": "C:\\public\\Model3\\06_join.cs",
+              "RelativeDocumentMoniker": "06_join.cs",
+              "ToolTip": "C:\\public\\Model3\\06_join.cs",
+              "RelativeToolTip": "06_join.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:19:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05_customer.cs",
+              "DocumentMoniker": "C:\\public\\Model3\\05_customer.cs",
+              "RelativeDocumentMoniker": "05_customer.cs",
+              "ToolTip": "C:\\public\\Model3\\05_customer.cs",
+              "RelativeToolTip": "05_customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:11:56.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Model3.Models.Customer">
+    <Position X="4.75" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAgAAAAAAIIAAgAAAAAAIAABACAAACIAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model3.Models.Order">
+    <Position X="11" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>GAEAAABAAAAAAAAAABAAICABCAAEAhBAAAAEAAACACA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

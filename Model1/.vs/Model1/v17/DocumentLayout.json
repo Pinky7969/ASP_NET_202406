@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\public\\Model1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\09_var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:09_var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\03_func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:03_func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\08_lamdba_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:08_lamdba_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\02_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:02_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\01_delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:01_delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\07_anonymous_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:07_anonymous_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\06_event_begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:06_event_begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\05_callback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:05_callback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|c:\\public\\model1\\04_predicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763EAADF-C225-492E-B44F-CFE37E7CC44F}|Model1.csproj|solutionrelative:04_predicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09_var.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\09_var.cs",
+              "RelativeDocumentMoniker": "09_var.cs",
+              "ToolTip": "C:\\public\\Model1\\09_var.cs",
+              "RelativeToolTip": "09_var.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:38:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08_lamdba_expression.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\08_lamdba_expression.cs",
+              "RelativeDocumentMoniker": "08_lamdba_expression.cs",
+              "ToolTip": "C:\\public\\Model1\\08_lamdba_expression.cs",
+              "RelativeToolTip": "08_lamdba_expression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:32:45.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "07_anonymous_methods.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\07_anonymous_methods.cs",
+              "RelativeDocumentMoniker": "07_anonymous_methods.cs",
+              "ToolTip": "C:\\public\\Model1\\07_anonymous_methods.cs",
+              "RelativeToolTip": "07_anonymous_methods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:26:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "06_event_begin.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\06_event_begin.cs",
+              "RelativeDocumentMoniker": "06_event_begin.cs",
+              "ToolTip": "C:\\public\\Model1\\06_event_begin.cs",
+              "RelativeToolTip": "06_event_begin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:12:50.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05_callback.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\05_callback.cs",
+              "RelativeDocumentMoniker": "05_callback.cs",
+              "ToolTip": "C:\\public\\Model1\\05_callback.cs",
+              "RelativeToolTip": "05_callback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:30:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04_predicate.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\04_predicate.cs",
+              "RelativeDocumentMoniker": "04_predicate.cs",
+              "ToolTip": "C:\\public\\Model1\\04_predicate.cs",
+              "RelativeToolTip": "04_predicate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:22:19.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_func.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\03_func.cs",
+              "RelativeDocumentMoniker": "03_func.cs",
+              "ToolTip": "C:\\public\\Model1\\03_func.cs",
+              "RelativeToolTip": "03_func.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:14:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02_action.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\02_action.cs",
+              "RelativeDocumentMoniker": "02_action.cs",
+              "ToolTip": "C:\\public\\Model1\\02_action.cs",
+              "RelativeToolTip": "02_action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:57:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01_delegate.cs",
+              "DocumentMoniker": "C:\\public\\Model1\\01_delegate.cs",
+              "RelativeDocumentMoniker": "01_delegate.cs",
+              "ToolTip": "C:\\public\\Model1\\01_delegate.cs",
+              "RelativeToolTip": "01_delegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:43:29.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\public\Model2\bin\Debug\net8.0\Model2.exe
+C:\public\Model2\bin\Debug\net8.0\Model2.deps.json
+C:\public\Model2\bin\Debug\net8.0\Model2.runtimeconfig.json
+C:\public\Model2\bin\Debug\net8.0\Model2.dll
+C:\public\Model2\bin\Debug\net8.0\Model2.pdb
+C:\public\Model2\obj\Debug\net8.0\Model2.GeneratedMSBuildEditorConfig.editorconfig
+C:\public\Model2\obj\Debug\net8.0\Model2.AssemblyInfoInputs.cache
+C:\public\Model2\obj\Debug\net8.0\Model2.AssemblyInfo.cs
+C:\public\Model2\obj\Debug\net8.0\Model2.csproj.CoreCompileInputs.cache
+C:\public\Model2\obj\Debug\net8.0\Model2.dll
+C:\public\Model2\obj\Debug\net8.0\refint\Model2.dll
+C:\public\Model2\obj\Debug\net8.0\Model2.pdb
+C:\public\Model2\obj\Debug\net8.0\Model2.genruntimeconfig.cache
+C:\public\Model2\obj\Debug\net8.0\ref\Model2.dll

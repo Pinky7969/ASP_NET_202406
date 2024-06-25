@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_delegate.cs" />
+    <Compile Remove="02_action.cs" />
+    <Compile Remove="03_func.cs" />
+    <Compile Remove="04_predicate.cs" />
+    <Compile Remove="05_callback.cs" />
+    <Compile Remove="06_event_begin.cs" />
+    <Compile Remove="07_anonymous_methods.cs" />
+    <Compile Remove="08_lamdba_expression.cs" />
+  </ItemGroup>
+
+</Project>
