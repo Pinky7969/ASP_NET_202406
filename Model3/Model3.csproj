@@ -13,6 +13,19 @@
     <Compile Remove="03_then_include.cs" />
     <Compile Remove="04_lazy_loading.cs" />
     <Compile Remove="05_customer.cs" />
+    <Compile Remove="06_join.cs" />
+    <Compile Remove="07_create.cs" />
+    <Compile Remove="08_update.cs" />
+    <Compile Remove="09_update2.cs" />
+    <Compile Remove="10_asnotracking.cs" />
+    <Compile Remove="11_delete.cs" />
+    <Compile Remove="12_fromsqlraw.cs" />
+    <Compile Remove="13_sqlquery.cs" />
+    <Compile Remove="14_parameter.cs" />
+    <Compile Remove="15_store_proc.cs" />
+    <Compile Remove="16_execute.cs" />
+    <Compile Remove="17_datatable.cs" />
+    <Compile Remove="18_reader.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 

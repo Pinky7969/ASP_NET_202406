@@ -1,14 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\public\\Model3\\",
+  "WorkspaceRootPath": "C:\\public\\ASP_NET_202406\\Model3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\model3\\06_join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:06_join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\19_executenonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:19_executenonquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\model3\\05_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:05_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\18_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:18_reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\17_datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:17_datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\16_execute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:16_execute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\15_store_proc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:15_store_proc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\14_parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:14_parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\13_sqlquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:13_sqlquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\12_fromsqlraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:12_fromsqlraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\11_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:11_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\08_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:08_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\10_asnotracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:10_asnotracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|c:\\public\\asp_net_202406\\model3\\09_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3511DF55-46D5-4372-BF57-03D4A8AE9B9D}|Model3.csproj|solutionrelative:09_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +67,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "06_join.cs",
-              "DocumentMoniker": "C:\\public\\Model3\\06_join.cs",
-              "RelativeDocumentMoniker": "06_join.cs",
-              "ToolTip": "C:\\public\\Model3\\06_join.cs",
-              "RelativeToolTip": "06_join.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Title": "19_executeNonQuery.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\19_executeNonQuery.cs",
+              "RelativeDocumentMoniker": "19_executeNonQuery.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\19_executeNonQuery.cs",
+              "RelativeToolTip": "19_executeNonQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:19:27.963Z",
+              "WhenOpened": "2024-06-25T06:04:28.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "05_customer.cs",
-              "DocumentMoniker": "C:\\public\\Model3\\05_customer.cs",
-              "RelativeDocumentMoniker": "05_customer.cs",
-              "ToolTip": "C:\\public\\Model3\\05_customer.cs",
-              "RelativeToolTip": "05_customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Title": "18_reader.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\18_reader.cs",
+              "RelativeDocumentMoniker": "18_reader.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\18_reader.cs",
+              "RelativeToolTip": "18_reader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:11:56.009Z",
+              "WhenOpened": "2024-06-25T05:54:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "17_datatable.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\17_datatable.cs",
+              "RelativeDocumentMoniker": "17_datatable.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\17_datatable.cs",
+              "RelativeToolTip": "17_datatable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:37:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "16_execute.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\16_execute.cs",
+              "RelativeDocumentMoniker": "16_execute.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\16_execute.cs",
+              "RelativeToolTip": "16_execute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:19:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "15_store_proc.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\15_store_proc.cs",
+              "RelativeDocumentMoniker": "15_store_proc.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\15_store_proc.cs",
+              "RelativeToolTip": "15_store_proc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:55:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "14_parameter.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\14_parameter.cs",
+              "RelativeDocumentMoniker": "14_parameter.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\14_parameter.cs",
+              "RelativeToolTip": "14_parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:41:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "13_sqlquery.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\13_sqlquery.cs",
+              "RelativeDocumentMoniker": "13_sqlquery.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\13_sqlquery.cs",
+              "RelativeToolTip": "13_sqlquery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:32:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "12_fromsqlraw.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\12_fromsqlraw.cs",
+              "RelativeDocumentMoniker": "12_fromsqlraw.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\12_fromsqlraw.cs",
+              "RelativeToolTip": "12_fromsqlraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:23:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "11_delete.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\11_delete.cs",
+              "RelativeDocumentMoniker": "11_delete.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\11_delete.cs",
+              "RelativeToolTip": "11_delete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:17:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "10_asnotracking.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\10_asnotracking.cs",
+              "RelativeDocumentMoniker": "10_asnotracking.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\10_asnotracking.cs",
+              "RelativeToolTip": "10_asnotracking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:12:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "09_update2.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\09_update2.cs",
+              "RelativeDocumentMoniker": "09_update2.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\09_update2.cs",
+              "RelativeToolTip": "09_update2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:07:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "08_update.cs",
+              "DocumentMoniker": "C:\\public\\ASP_NET_202406\\Model3\\08_update.cs",
+              "RelativeDocumentMoniker": "08_update.cs",
+              "ToolTip": "C:\\public\\ASP_NET_202406\\Model3\\08_update.cs",
+              "RelativeToolTip": "08_update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:03:31.161Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,6 @@
+CREATE PROCEDURE [dbo].AddRegion	
+	@regionID int,
+	@regionDescription nvarchar(50)
+AS
+	insert into Region (RegionID, RegionDescription) values (@regionID, @regionDescription)
+RETURN 0
