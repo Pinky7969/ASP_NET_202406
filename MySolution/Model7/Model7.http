@@ -1,0 +1,34 @@
+﻿@Model7_HostAddress = http://localhost:5085
+
+GET {{Model7_HostAddress}}/TodoItems
+
+###
+
+GET {{Model7_HostAddress}}/TodoItems/1
+
+###
+GET {{Model7_HostAddress}}/TodoItems/100
+
+###
+POST {{Model7_HostAddress}}/TodoItems
+content-Type: application/json
+
+{
+  "name": "Redundent Item",
+  "isComplete": false
+}
+###
+
+PUT {{Model7_HostAddress}}/TodoItems/6
+content-Type: application/json
+
+{
+  "id": 6,
+  "name": "Updated Item",
+  "isComplete": true
+}
+###
+
+DELETE {{Model7_HostAddress}}/TodoItems/6
+
+###

@@ -1,0 +1,8 @@
+docker run --rm -it -p 12345:8080 -v C:\docker-data:/data --name container1 demo
+
+
+
+[Note: Volumn]
+1. 將本機目錄 C:\docker-data
+2. 將 sqlLite DB 放入 C:\docker-data
+3. docker run --rm -it -p 12345:8080 -v C:\docker-data:/data --name container1 demo

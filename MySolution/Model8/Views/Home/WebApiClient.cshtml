@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewData["Title"] = "WebApiClient";
+}
+
+<h1>WebApiClient</h1>
+
+@section scripts {
+    <script>
+        let url = "http://localhost:12345/todoitems";
+
+        function getAll() {
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    let tbody = document.querySelector("tbody");
+                    tbody.innerHTML = "";
+                    data.forEach(item => {
+                        let tr = document.createElement("tr");
+                        tr.innerHTML = `
+                                            <td>${item.id}</td>
+                                            <td>${item.name}</td>
+                                            <td>${item.isComplete}</td>
+                                        `;
+                        tbody.appendChild(tr);
+                    });
+                });
+        }
+
+        document.getElementById("btnGetAll").addEventListener("click", getAll);
+
+        document.getElementById("btnGet").addEventListener("click", () => {
+            let id = document.getElementById("Id").value;
+            fetch(`${url}/${id}`)
+                .then(response => {
+                    if (response.ok)
+                        return response.json();
+                    else
+                        throw new Error(response.status + ":" + response.statusText);
+                })
+                .then(data => {
+                    document.getElementById("Name").value = data.name;
+                    document.getElementById("IsComplete").checked = data.isComplete;
+                })
+                .catch (error=> alert(error.message));
+        });
+
+        document.getElementById("btnInsert").addEventListener("click", () => {
+            let name = document.getElementById("Name").value;
+            let isComplete = document.getElementById("IsComplete").checked;
+            fetch(url, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ name, isComplete })
+            }).then(()=>getAll()); //Handle
+        });
+
+        document.getElementById("btnUpdate").addEventListener("click", () => {
+            const id = document.getElementById("Id").value;
+            const name = document.getElementById("Name").value;
+            const isComplete = document.getElementById("IsComplete").checked;
+            fetch(`${url}/${id}`, {
+                method: "put",
+                headers: {
+                    "content-type": "application/json"
+                },
+                body: JSON.stringify({ id, name, isComplete })
+            }).then(getAll);
+        });
+
+        document.getElementById("btnDelete").addEventListener("click", () => {
+            let id = document.getElementById("Id").value;
+            fetch(`${url}/${id}`, {
+                method: "DELETE"
+            }).then(getAll);
+        });
+    </script>
+
+}
+
+<form class="row g-3">
+    <div class="col-md-6">
+        <label for="Id" class="form-label">Id</label>
+        <input type="text" class="form-control" id="Id" name="Id" value="" />
+
+        <label for="Name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="" />
+
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="IsComplete" name="IsComplete" />
+            <label class="form-check-label" for="IsComplete">IsComplete</label>
+        </div>
+    </div>
+    <div>
+        <input type="button" id="btnGetAll" value="GetAll" class="btn btn-primary" />
+        <input type="button" id="btnGet" value="Get" class="btn btn-primary" />
+        <input type="button" id="btnInsert" value="Insert" class="btn btn-primary" />
+        <input type="button" id="btnUpdate" value="Update" class="btn btn-primary" />
+        <input type="button" id="btnDelete" value="Delete" class="btn btn-primary" />
+    </div>
+
+</form>
+<hr />
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>IsComplete</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>

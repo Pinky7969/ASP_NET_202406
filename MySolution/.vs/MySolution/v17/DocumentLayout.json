@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\public\\MySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|c:\\public\\mysolution\\model7\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|solutionrelative:model7\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|c:\\public\\mysolution\\model8\\views\\home\\webapiclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|solutionrelative:model8\\views\\home\\webapiclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|c:\\public\\mysolution\\model7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|solutionrelative:model7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|c:\\public\\mysolution\\model7\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|solutionrelative:model7\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|c:\\public\\mysolution\\model8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|solutionrelative:model8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|c:\\public\\mysolution\\model7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|solutionrelative:model7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|c:\\public\\mysolution\\model8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F979F01-E66B-4EA7-B8F6-51EC7A702561}|Model8\\Model8.csproj|solutionrelative:model8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|c:\\public\\mysolution\\model7\\model7.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C7E7AC74-841B-43E8-B8AD-29BF01BCDE37}|Model7\\Model7.csproj|solutionrelative:model7\\model7.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model7\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Model7\\appsettings.Development.json",
+              "ToolTip": "C:\\public\\MySolution\\Model7\\appsettings.Development.json",
+              "RelativeToolTip": "Model7\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T08:16:55.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model7\\appsettings.json",
+              "RelativeDocumentMoniker": "Model7\\appsettings.json",
+              "ToolTip": "C:\\public\\MySolution\\Model7\\appsettings.json",
+              "RelativeToolTip": "Model7\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T08:16:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model7\\Dockerfile",
+              "RelativeDocumentMoniker": "Model7\\Dockerfile",
+              "ToolTip": "C:\\public\\MySolution\\Model7\\Dockerfile",
+              "RelativeToolTip": "Model7\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-27T07:38:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Model8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\public\\MySolution\\Model8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Model8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:37:01.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiClient.cshtml",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model8\\Views\\Home\\WebApiClient.cshtml",
+              "RelativeDocumentMoniker": "Model8\\Views\\Home\\WebApiClient.cshtml",
+              "ToolTip": "C:\\public\\MySolution\\Model8\\Views\\Home\\WebApiClient.cshtml",
+              "RelativeToolTip": "Model8\\Views\\Home\\WebApiClient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:33:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\public\\MySolution\\Model8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Model8\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:31:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model7\\Program.cs",
+              "RelativeDocumentMoniker": "Model7\\Program.cs",
+              "ToolTip": "C:\\public\\MySolution\\Model7\\Program.cs",
+              "RelativeToolTip": "Model7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:16:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model7.http",
+              "DocumentMoniker": "C:\\public\\MySolution\\Model7\\Model7.http",
+              "RelativeDocumentMoniker": "Model7\\Model7.http",
+              "ToolTip": "C:\\public\\MySolution\\Model7\\Model7.http",
+              "RelativeToolTip": "Model7\\Model7.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-27T03:05:15.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
