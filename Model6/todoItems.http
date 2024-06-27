@@ -3,3 +3,22 @@
 GET {{host}}/api/todoitems
 ###
 GET {{host}}/api/todoitems/1
+###
+POST {{host}}/api/todoitems
+Content-Type: application/json
+
+{
+  "name": "New Todo",
+  "isComplete": true
+}
+###
+PUT {{host}}/api/todoitems/5
+Content-Type: application/json
+
+{
+  "id": 5,
+  "name": "Update Todo",
+  "isComplete": true
+}
+###
+DELETE {{host}}/api/todoitems/6
