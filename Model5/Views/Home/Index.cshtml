@@ -1,0 +1,21 @@
+﻿@inject Model5.Services.IMySerivce Service
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <ul>
+        <li>Controller: @ViewData["id"]</li>
+        <li>View: @Service.Id</li>
+    </ul>
+</body>
+</html>
